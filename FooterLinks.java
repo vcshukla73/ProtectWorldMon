@@ -1,0 +1,1 @@
+"Foter links page java"
